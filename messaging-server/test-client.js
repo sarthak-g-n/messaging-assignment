@@ -1,3 +1,4 @@
+//for initial testing
 const { io } = require('socket.io-client');
 const readline = require('readline');
 
